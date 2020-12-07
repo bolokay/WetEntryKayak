@@ -21,5 +21,17 @@ namespace FinalProjectGUI
         {
 
         }
+
+        private void Check_Out_Load(object sender, EventArgs e)
+        {
+            //string test = Shop_All.kayak1.ToString() ;
+
+           // chboxTest.CheckState;
+
+            if (((Shop_All)Owner).kayak1 == true)
+            {
+                chboxTest.Checked = true;
+            }
+        }
     }
 }

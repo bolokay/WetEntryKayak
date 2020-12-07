@@ -28,8 +28,8 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.Windows.Forms.CheckBox chkboxKayak2;
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Shop_All));
-            this.chkboxKayak2 = new System.Windows.Forms.CheckBox();
             this.chkboxKayak4 = new System.Windows.Forms.CheckBox();
             this.chkboxKayak3 = new System.Windows.Forms.CheckBox();
             this.chkboxKayak5 = new System.Windows.Forms.CheckBox();
@@ -56,6 +56,9 @@
             this.lblHeader = new System.Windows.Forms.Label();
             this.gboxOcean = new System.Windows.Forms.GroupBox();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
+            this.btnAddToCart = new System.Windows.Forms.Button();
+            this.btnAddToCartTop = new System.Windows.Forms.Button();
+            chkboxKayak2 = new System.Windows.Forms.CheckBox();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox8)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox7)).BeginInit();
@@ -69,14 +72,15 @@
             // 
             // chkboxKayak2
             // 
-            this.chkboxKayak2.AutoSize = true;
-            this.chkboxKayak2.Location = new System.Drawing.Point(800, 445);
-            this.chkboxKayak2.Margin = new System.Windows.Forms.Padding(2);
-            this.chkboxKayak2.Name = "chkboxKayak2";
-            this.chkboxKayak2.Size = new System.Drawing.Size(79, 17);
-            this.chkboxKayak2.TabIndex = 82;
-            this.chkboxKayak2.Text = "Add to Cart";
-            this.chkboxKayak2.UseVisualStyleBackColor = true;
+            chkboxKayak2.AutoSize = true;
+            chkboxKayak2.Location = new System.Drawing.Point(800, 445);
+            chkboxKayak2.Margin = new System.Windows.Forms.Padding(2);
+            chkboxKayak2.Name = "chkboxKayak2";
+            chkboxKayak2.Size = new System.Drawing.Size(56, 17);
+            chkboxKayak2.TabIndex = 82;
+            chkboxKayak2.Text = "Select";
+            chkboxKayak2.UseVisualStyleBackColor = true;
+            chkboxKayak2.CheckedChanged += new System.EventHandler(this.ChkboxKayak2_CheckedChanged);
             // 
             // chkboxKayak4
             // 
@@ -84,10 +88,11 @@
             this.chkboxKayak4.Location = new System.Drawing.Point(800, 783);
             this.chkboxKayak4.Margin = new System.Windows.Forms.Padding(2);
             this.chkboxKayak4.Name = "chkboxKayak4";
-            this.chkboxKayak4.Size = new System.Drawing.Size(79, 17);
+            this.chkboxKayak4.Size = new System.Drawing.Size(56, 17);
             this.chkboxKayak4.TabIndex = 81;
-            this.chkboxKayak4.Text = "Add to Cart";
+            this.chkboxKayak4.Text = "Select";
             this.chkboxKayak4.UseVisualStyleBackColor = true;
+            this.chkboxKayak4.CheckedChanged += new System.EventHandler(this.ChkboxKayak4_CheckedChanged);
             // 
             // chkboxKayak3
             // 
@@ -95,10 +100,11 @@
             this.chkboxKayak3.Location = new System.Drawing.Point(259, 783);
             this.chkboxKayak3.Margin = new System.Windows.Forms.Padding(2);
             this.chkboxKayak3.Name = "chkboxKayak3";
-            this.chkboxKayak3.Size = new System.Drawing.Size(79, 17);
+            this.chkboxKayak3.Size = new System.Drawing.Size(56, 17);
             this.chkboxKayak3.TabIndex = 80;
-            this.chkboxKayak3.Text = "Add to Cart";
+            this.chkboxKayak3.Text = "Select";
             this.chkboxKayak3.UseVisualStyleBackColor = true;
+            this.chkboxKayak3.CheckedChanged += new System.EventHandler(this.ChkboxKayak3_CheckedChanged);
             // 
             // chkboxKayak5
             // 
@@ -106,10 +112,11 @@
             this.chkboxKayak5.Location = new System.Drawing.Point(259, 1127);
             this.chkboxKayak5.Margin = new System.Windows.Forms.Padding(2);
             this.chkboxKayak5.Name = "chkboxKayak5";
-            this.chkboxKayak5.Size = new System.Drawing.Size(79, 17);
+            this.chkboxKayak5.Size = new System.Drawing.Size(56, 17);
             this.chkboxKayak5.TabIndex = 79;
-            this.chkboxKayak5.Text = "Add to Cart";
+            this.chkboxKayak5.Text = "Select";
             this.chkboxKayak5.UseVisualStyleBackColor = true;
+            this.chkboxKayak5.CheckedChanged += new System.EventHandler(this.ChkboxKayak5_CheckedChanged);
             // 
             // chkboxKayak6
             // 
@@ -117,10 +124,11 @@
             this.chkboxKayak6.Location = new System.Drawing.Point(800, 1127);
             this.chkboxKayak6.Margin = new System.Windows.Forms.Padding(2);
             this.chkboxKayak6.Name = "chkboxKayak6";
-            this.chkboxKayak6.Size = new System.Drawing.Size(79, 17);
+            this.chkboxKayak6.Size = new System.Drawing.Size(56, 17);
             this.chkboxKayak6.TabIndex = 78;
-            this.chkboxKayak6.Text = "Add to Cart";
+            this.chkboxKayak6.Text = "Select";
             this.chkboxKayak6.UseVisualStyleBackColor = true;
+            this.chkboxKayak6.CheckedChanged += new System.EventHandler(this.ChkboxKayak6_CheckedChanged);
             // 
             // chkboxKayak7
             // 
@@ -128,10 +136,11 @@
             this.chkboxKayak7.Location = new System.Drawing.Point(249, 1539);
             this.chkboxKayak7.Margin = new System.Windows.Forms.Padding(2);
             this.chkboxKayak7.Name = "chkboxKayak7";
-            this.chkboxKayak7.Size = new System.Drawing.Size(79, 17);
+            this.chkboxKayak7.Size = new System.Drawing.Size(56, 17);
             this.chkboxKayak7.TabIndex = 77;
-            this.chkboxKayak7.Text = "Add to Cart";
+            this.chkboxKayak7.Text = "Select";
             this.chkboxKayak7.UseVisualStyleBackColor = true;
+            this.chkboxKayak7.CheckedChanged += new System.EventHandler(this.ChkboxKayak7_CheckedChanged);
             // 
             // chkboxKayak8
             // 
@@ -139,10 +148,11 @@
             this.chkboxKayak8.Location = new System.Drawing.Point(800, 1539);
             this.chkboxKayak8.Margin = new System.Windows.Forms.Padding(2);
             this.chkboxKayak8.Name = "chkboxKayak8";
-            this.chkboxKayak8.Size = new System.Drawing.Size(79, 17);
+            this.chkboxKayak8.Size = new System.Drawing.Size(56, 17);
             this.chkboxKayak8.TabIndex = 76;
-            this.chkboxKayak8.Text = "Add to Cart";
+            this.chkboxKayak8.Text = "Select";
             this.chkboxKayak8.UseVisualStyleBackColor = true;
+            this.chkboxKayak8.CheckedChanged += new System.EventHandler(this.ChkboxKayak8_CheckedChanged);
             // 
             // chkboxKayak1
             // 
@@ -150,10 +160,11 @@
             this.chkboxKayak1.Location = new System.Drawing.Point(259, 445);
             this.chkboxKayak1.Margin = new System.Windows.Forms.Padding(2);
             this.chkboxKayak1.Name = "chkboxKayak1";
-            this.chkboxKayak1.Size = new System.Drawing.Size(79, 17);
+            this.chkboxKayak1.Size = new System.Drawing.Size(56, 17);
             this.chkboxKayak1.TabIndex = 73;
-            this.chkboxKayak1.Text = "Add to Cart";
+            this.chkboxKayak1.Text = "Select";
             this.chkboxKayak1.UseVisualStyleBackColor = true;
+            this.chkboxKayak1.CheckedChanged += new System.EventHandler(this.ChkboxKayak1_CheckedChanged);
             // 
             // pictureBox8
             // 
@@ -346,12 +357,33 @@
             // 
             // groupBox1
             // 
+            this.groupBox1.Controls.Add(this.btnAddToCartTop);
+            this.groupBox1.Controls.Add(this.btnAddToCart);
             this.groupBox1.Controls.Add(this.pictureBox2);
             this.groupBox1.Location = new System.Drawing.Point(68, 3);
             this.groupBox1.Name = "groupBox1";
             this.groupBox1.Size = new System.Drawing.Size(998, 1647);
             this.groupBox1.TabIndex = 0;
             this.groupBox1.TabStop = false;
+            // 
+            // btnAddToCart
+            // 
+            this.btnAddToCart.Location = new System.Drawing.Point(447, 1596);
+            this.btnAddToCart.Name = "btnAddToCart";
+            this.btnAddToCart.Size = new System.Drawing.Size(131, 23);
+            this.btnAddToCart.TabIndex = 63;
+            this.btnAddToCart.Text = "Add selections to cart";
+            this.btnAddToCart.UseVisualStyleBackColor = true;
+            this.btnAddToCart.Click += new System.EventHandler(this.BtnAddToCart_Click);
+            // 
+            // btnAddToCartTop
+            // 
+            this.btnAddToCartTop.Location = new System.Drawing.Point(447, 123);
+            this.btnAddToCartTop.Name = "btnAddToCartTop";
+            this.btnAddToCartTop.Size = new System.Drawing.Size(131, 23);
+            this.btnAddToCartTop.TabIndex = 64;
+            this.btnAddToCartTop.Text = "Add selections to cart";
+            this.btnAddToCartTop.UseVisualStyleBackColor = true;
             // 
             // Shop_All
             // 
@@ -369,7 +401,7 @@
             this.Controls.Add(this.label1);
             this.Controls.Add(this.lblKayak2);
             this.Controls.Add(this.lblKayak1);
-            this.Controls.Add(this.chkboxKayak2);
+            this.Controls.Add(chkboxKayak2);
             this.Controls.Add(this.chkboxKayak4);
             this.Controls.Add(this.chkboxKayak3);
             this.Controls.Add(this.chkboxKayak5);
@@ -405,7 +437,6 @@
         }
 
         #endregion
-        private System.Windows.Forms.CheckBox chkboxKayak2;
         private System.Windows.Forms.CheckBox chkboxKayak4;
         private System.Windows.Forms.CheckBox chkboxKayak3;
         private System.Windows.Forms.CheckBox chkboxKayak5;
@@ -432,5 +463,7 @@
         private System.Windows.Forms.Label lblHeader;
         private System.Windows.Forms.GroupBox gboxOcean;
         private System.Windows.Forms.GroupBox groupBox1;
+        private System.Windows.Forms.Button btnAddToCartTop;
+        private System.Windows.Forms.Button btnAddToCart;
     }
 }
