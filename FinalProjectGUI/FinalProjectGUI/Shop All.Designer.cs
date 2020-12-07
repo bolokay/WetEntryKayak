@@ -29,14 +29,14 @@
         private void InitializeComponent()
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Shop_All));
-            this.checkBox10 = new System.Windows.Forms.CheckBox();
-            this.checkBox9 = new System.Windows.Forms.CheckBox();
-            this.checkBox8 = new System.Windows.Forms.CheckBox();
-            this.checkBox7 = new System.Windows.Forms.CheckBox();
-            this.checkBox6 = new System.Windows.Forms.CheckBox();
-            this.checkBox5 = new System.Windows.Forms.CheckBox();
-            this.checkBox4 = new System.Windows.Forms.CheckBox();
-            this.checkBox1 = new System.Windows.Forms.CheckBox();
+            this.chkboxKayak2 = new System.Windows.Forms.CheckBox();
+            this.chkboxKayak4 = new System.Windows.Forms.CheckBox();
+            this.chkboxKayak3 = new System.Windows.Forms.CheckBox();
+            this.chkboxKayak5 = new System.Windows.Forms.CheckBox();
+            this.chkboxKayak6 = new System.Windows.Forms.CheckBox();
+            this.chkboxKayak7 = new System.Windows.Forms.CheckBox();
+            this.chkboxKayak8 = new System.Windows.Forms.CheckBox();
+            this.chkboxKayak1 = new System.Windows.Forms.CheckBox();
             this.pictureBox8 = new System.Windows.Forms.PictureBox();
             this.pictureBox3 = new System.Windows.Forms.PictureBox();
             this.pictureBox7 = new System.Windows.Forms.PictureBox();
@@ -67,93 +67,93 @@
             this.groupBox1.SuspendLayout();
             this.SuspendLayout();
             // 
-            // checkBox10
+            // chkboxKayak2
             // 
-            this.checkBox10.AutoSize = true;
-            this.checkBox10.Location = new System.Drawing.Point(800, 445);
-            this.checkBox10.Margin = new System.Windows.Forms.Padding(2);
-            this.checkBox10.Name = "checkBox10";
-            this.checkBox10.Size = new System.Drawing.Size(79, 17);
-            this.checkBox10.TabIndex = 82;
-            this.checkBox10.Text = "Add to Cart";
-            this.checkBox10.UseVisualStyleBackColor = true;
+            this.chkboxKayak2.AutoSize = true;
+            this.chkboxKayak2.Location = new System.Drawing.Point(800, 445);
+            this.chkboxKayak2.Margin = new System.Windows.Forms.Padding(2);
+            this.chkboxKayak2.Name = "chkboxKayak2";
+            this.chkboxKayak2.Size = new System.Drawing.Size(79, 17);
+            this.chkboxKayak2.TabIndex = 82;
+            this.chkboxKayak2.Text = "Add to Cart";
+            this.chkboxKayak2.UseVisualStyleBackColor = true;
             // 
-            // checkBox9
+            // chkboxKayak4
             // 
-            this.checkBox9.AutoSize = true;
-            this.checkBox9.Location = new System.Drawing.Point(800, 783);
-            this.checkBox9.Margin = new System.Windows.Forms.Padding(2);
-            this.checkBox9.Name = "checkBox9";
-            this.checkBox9.Size = new System.Drawing.Size(79, 17);
-            this.checkBox9.TabIndex = 81;
-            this.checkBox9.Text = "Add to Cart";
-            this.checkBox9.UseVisualStyleBackColor = true;
+            this.chkboxKayak4.AutoSize = true;
+            this.chkboxKayak4.Location = new System.Drawing.Point(800, 783);
+            this.chkboxKayak4.Margin = new System.Windows.Forms.Padding(2);
+            this.chkboxKayak4.Name = "chkboxKayak4";
+            this.chkboxKayak4.Size = new System.Drawing.Size(79, 17);
+            this.chkboxKayak4.TabIndex = 81;
+            this.chkboxKayak4.Text = "Add to Cart";
+            this.chkboxKayak4.UseVisualStyleBackColor = true;
             // 
-            // checkBox8
+            // chkboxKayak3
             // 
-            this.checkBox8.AutoSize = true;
-            this.checkBox8.Location = new System.Drawing.Point(259, 783);
-            this.checkBox8.Margin = new System.Windows.Forms.Padding(2);
-            this.checkBox8.Name = "checkBox8";
-            this.checkBox8.Size = new System.Drawing.Size(79, 17);
-            this.checkBox8.TabIndex = 80;
-            this.checkBox8.Text = "Add to Cart";
-            this.checkBox8.UseVisualStyleBackColor = true;
+            this.chkboxKayak3.AutoSize = true;
+            this.chkboxKayak3.Location = new System.Drawing.Point(259, 783);
+            this.chkboxKayak3.Margin = new System.Windows.Forms.Padding(2);
+            this.chkboxKayak3.Name = "chkboxKayak3";
+            this.chkboxKayak3.Size = new System.Drawing.Size(79, 17);
+            this.chkboxKayak3.TabIndex = 80;
+            this.chkboxKayak3.Text = "Add to Cart";
+            this.chkboxKayak3.UseVisualStyleBackColor = true;
             // 
-            // checkBox7
+            // chkboxKayak5
             // 
-            this.checkBox7.AutoSize = true;
-            this.checkBox7.Location = new System.Drawing.Point(259, 1127);
-            this.checkBox7.Margin = new System.Windows.Forms.Padding(2);
-            this.checkBox7.Name = "checkBox7";
-            this.checkBox7.Size = new System.Drawing.Size(79, 17);
-            this.checkBox7.TabIndex = 79;
-            this.checkBox7.Text = "Add to Cart";
-            this.checkBox7.UseVisualStyleBackColor = true;
+            this.chkboxKayak5.AutoSize = true;
+            this.chkboxKayak5.Location = new System.Drawing.Point(259, 1127);
+            this.chkboxKayak5.Margin = new System.Windows.Forms.Padding(2);
+            this.chkboxKayak5.Name = "chkboxKayak5";
+            this.chkboxKayak5.Size = new System.Drawing.Size(79, 17);
+            this.chkboxKayak5.TabIndex = 79;
+            this.chkboxKayak5.Text = "Add to Cart";
+            this.chkboxKayak5.UseVisualStyleBackColor = true;
             // 
-            // checkBox6
+            // chkboxKayak6
             // 
-            this.checkBox6.AutoSize = true;
-            this.checkBox6.Location = new System.Drawing.Point(800, 1127);
-            this.checkBox6.Margin = new System.Windows.Forms.Padding(2);
-            this.checkBox6.Name = "checkBox6";
-            this.checkBox6.Size = new System.Drawing.Size(79, 17);
-            this.checkBox6.TabIndex = 78;
-            this.checkBox6.Text = "Add to Cart";
-            this.checkBox6.UseVisualStyleBackColor = true;
+            this.chkboxKayak6.AutoSize = true;
+            this.chkboxKayak6.Location = new System.Drawing.Point(800, 1127);
+            this.chkboxKayak6.Margin = new System.Windows.Forms.Padding(2);
+            this.chkboxKayak6.Name = "chkboxKayak6";
+            this.chkboxKayak6.Size = new System.Drawing.Size(79, 17);
+            this.chkboxKayak6.TabIndex = 78;
+            this.chkboxKayak6.Text = "Add to Cart";
+            this.chkboxKayak6.UseVisualStyleBackColor = true;
             // 
-            // checkBox5
+            // chkboxKayak7
             // 
-            this.checkBox5.AutoSize = true;
-            this.checkBox5.Location = new System.Drawing.Point(249, 1539);
-            this.checkBox5.Margin = new System.Windows.Forms.Padding(2);
-            this.checkBox5.Name = "checkBox5";
-            this.checkBox5.Size = new System.Drawing.Size(79, 17);
-            this.checkBox5.TabIndex = 77;
-            this.checkBox5.Text = "Add to Cart";
-            this.checkBox5.UseVisualStyleBackColor = true;
+            this.chkboxKayak7.AutoSize = true;
+            this.chkboxKayak7.Location = new System.Drawing.Point(249, 1539);
+            this.chkboxKayak7.Margin = new System.Windows.Forms.Padding(2);
+            this.chkboxKayak7.Name = "chkboxKayak7";
+            this.chkboxKayak7.Size = new System.Drawing.Size(79, 17);
+            this.chkboxKayak7.TabIndex = 77;
+            this.chkboxKayak7.Text = "Add to Cart";
+            this.chkboxKayak7.UseVisualStyleBackColor = true;
             // 
-            // checkBox4
+            // chkboxKayak8
             // 
-            this.checkBox4.AutoSize = true;
-            this.checkBox4.Location = new System.Drawing.Point(800, 1539);
-            this.checkBox4.Margin = new System.Windows.Forms.Padding(2);
-            this.checkBox4.Name = "checkBox4";
-            this.checkBox4.Size = new System.Drawing.Size(79, 17);
-            this.checkBox4.TabIndex = 76;
-            this.checkBox4.Text = "Add to Cart";
-            this.checkBox4.UseVisualStyleBackColor = true;
+            this.chkboxKayak8.AutoSize = true;
+            this.chkboxKayak8.Location = new System.Drawing.Point(800, 1539);
+            this.chkboxKayak8.Margin = new System.Windows.Forms.Padding(2);
+            this.chkboxKayak8.Name = "chkboxKayak8";
+            this.chkboxKayak8.Size = new System.Drawing.Size(79, 17);
+            this.chkboxKayak8.TabIndex = 76;
+            this.chkboxKayak8.Text = "Add to Cart";
+            this.chkboxKayak8.UseVisualStyleBackColor = true;
             // 
-            // checkBox1
+            // chkboxKayak1
             // 
-            this.checkBox1.AutoSize = true;
-            this.checkBox1.Location = new System.Drawing.Point(259, 445);
-            this.checkBox1.Margin = new System.Windows.Forms.Padding(2);
-            this.checkBox1.Name = "checkBox1";
-            this.checkBox1.Size = new System.Drawing.Size(79, 17);
-            this.checkBox1.TabIndex = 73;
-            this.checkBox1.Text = "Add to Cart";
-            this.checkBox1.UseVisualStyleBackColor = true;
+            this.chkboxKayak1.AutoSize = true;
+            this.chkboxKayak1.Location = new System.Drawing.Point(259, 445);
+            this.chkboxKayak1.Margin = new System.Windows.Forms.Padding(2);
+            this.chkboxKayak1.Name = "chkboxKayak1";
+            this.chkboxKayak1.Size = new System.Drawing.Size(79, 17);
+            this.chkboxKayak1.TabIndex = 73;
+            this.chkboxKayak1.Text = "Add to Cart";
+            this.chkboxKayak1.UseVisualStyleBackColor = true;
             // 
             // pictureBox8
             // 
@@ -369,14 +369,14 @@
             this.Controls.Add(this.label1);
             this.Controls.Add(this.lblKayak2);
             this.Controls.Add(this.lblKayak1);
-            this.Controls.Add(this.checkBox10);
-            this.Controls.Add(this.checkBox9);
-            this.Controls.Add(this.checkBox8);
-            this.Controls.Add(this.checkBox7);
-            this.Controls.Add(this.checkBox6);
-            this.Controls.Add(this.checkBox5);
-            this.Controls.Add(this.checkBox4);
-            this.Controls.Add(this.checkBox1);
+            this.Controls.Add(this.chkboxKayak2);
+            this.Controls.Add(this.chkboxKayak4);
+            this.Controls.Add(this.chkboxKayak3);
+            this.Controls.Add(this.chkboxKayak5);
+            this.Controls.Add(this.chkboxKayak6);
+            this.Controls.Add(this.chkboxKayak7);
+            this.Controls.Add(this.chkboxKayak8);
+            this.Controls.Add(this.chkboxKayak1);
             this.Controls.Add(this.pictureBox8);
             this.Controls.Add(this.pictureBox3);
             this.Controls.Add(this.pictureBox7);
@@ -405,14 +405,14 @@
         }
 
         #endregion
-        private System.Windows.Forms.CheckBox checkBox10;
-        private System.Windows.Forms.CheckBox checkBox9;
-        private System.Windows.Forms.CheckBox checkBox8;
-        private System.Windows.Forms.CheckBox checkBox7;
-        private System.Windows.Forms.CheckBox checkBox6;
-        private System.Windows.Forms.CheckBox checkBox5;
-        private System.Windows.Forms.CheckBox checkBox4;
-        private System.Windows.Forms.CheckBox checkBox1;
+        private System.Windows.Forms.CheckBox chkboxKayak2;
+        private System.Windows.Forms.CheckBox chkboxKayak4;
+        private System.Windows.Forms.CheckBox chkboxKayak3;
+        private System.Windows.Forms.CheckBox chkboxKayak5;
+        private System.Windows.Forms.CheckBox chkboxKayak6;
+        private System.Windows.Forms.CheckBox chkboxKayak7;
+        private System.Windows.Forms.CheckBox chkboxKayak8;
+        private System.Windows.Forms.CheckBox chkboxKayak1;
         private System.Windows.Forms.PictureBox pictureBox8;
         private System.Windows.Forms.PictureBox pictureBox3;
         private System.Windows.Forms.PictureBox pictureBox7;
