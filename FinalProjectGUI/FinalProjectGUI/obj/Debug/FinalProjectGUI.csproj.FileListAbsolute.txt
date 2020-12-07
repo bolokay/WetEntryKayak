@@ -1,0 +1,73 @@
+\\uem.walton.uark.edu\UEMProfiles_Lab$\ccd010\RedirectedFolders\Downloads\WetEntryKayak-master (1)\WetEntryKayak-master\FinalProjectGUI11_11_10_45\FinalProjectGUI\FinalProjectGUI\bin\Debug\FinalProjectGUI.exe.config
+\\uem.walton.uark.edu\UEMProfiles_Lab$\ccd010\RedirectedFolders\Downloads\WetEntryKayak-master (1)\WetEntryKayak-master\FinalProjectGUI11_11_10_45\FinalProjectGUI\FinalProjectGUI\bin\Debug\FinalProjectGUI.exe
+\\uem.walton.uark.edu\UEMProfiles_Lab$\ccd010\RedirectedFolders\Downloads\WetEntryKayak-master (1)\WetEntryKayak-master\FinalProjectGUI11_11_10_45\FinalProjectGUI\FinalProjectGUI\bin\Debug\FinalProjectGUI.pdb
+\\uem.walton.uark.edu\UEMProfiles_Lab$\ccd010\RedirectedFolders\Downloads\WetEntryKayak-master (1)\WetEntryKayak-master\FinalProjectGUI11_11_10_45\FinalProjectGUI\FinalProjectGUI\obj\Debug\FinalProjectGUI.csprojAssemblyReference.cache
+\\uem.walton.uark.edu\UEMProfiles_Lab$\ccd010\RedirectedFolders\Downloads\WetEntryKayak-master (1)\WetEntryKayak-master\FinalProjectGUI11_11_10_45\FinalProjectGUI\FinalProjectGUI\obj\Debug\FinalProjectGUI.About_Us.resources
+\\uem.walton.uark.edu\UEMProfiles_Lab$\ccd010\RedirectedFolders\Downloads\WetEntryKayak-master (1)\WetEntryKayak-master\FinalProjectGUI11_11_10_45\FinalProjectGUI\FinalProjectGUI\obj\Debug\FinalProjectGUI.Check_Out.resources
+\\uem.walton.uark.edu\UEMProfiles_Lab$\ccd010\RedirectedFolders\Downloads\WetEntryKayak-master (1)\WetEntryKayak-master\FinalProjectGUI11_11_10_45\FinalProjectGUI\FinalProjectGUI\obj\Debug\FinalProjectGUI.Contact_Us.resources
+\\uem.walton.uark.edu\UEMProfiles_Lab$\ccd010\RedirectedFolders\Downloads\WetEntryKayak-master (1)\WetEntryKayak-master\FinalProjectGUI11_11_10_45\FinalProjectGUI\FinalProjectGUI\obj\Debug\FinalProjectGUI.Gear_and_Accessories.resources
+\\uem.walton.uark.edu\UEMProfiles_Lab$\ccd010\RedirectedFolders\Downloads\WetEntryKayak-master (1)\WetEntryKayak-master\FinalProjectGUI11_11_10_45\FinalProjectGUI\FinalProjectGUI\obj\Debug\FinalProjectGUI.Home.resources
+\\uem.walton.uark.edu\UEMProfiles_Lab$\ccd010\RedirectedFolders\Downloads\WetEntryKayak-master (1)\WetEntryKayak-master\FinalProjectGUI11_11_10_45\FinalProjectGUI\FinalProjectGUI\obj\Debug\FinalProjectGUI.New_Kayaks.resources
+\\uem.walton.uark.edu\UEMProfiles_Lab$\ccd010\RedirectedFolders\Downloads\WetEntryKayak-master (1)\WetEntryKayak-master\FinalProjectGUI11_11_10_45\FinalProjectGUI\FinalProjectGUI\obj\Debug\FinalProjectGUI.Properties.Resources.resources
+\\uem.walton.uark.edu\UEMProfiles_Lab$\ccd010\RedirectedFolders\Downloads\WetEntryKayak-master (1)\WetEntryKayak-master\FinalProjectGUI11_11_10_45\FinalProjectGUI\FinalProjectGUI\obj\Debug\FinalProjectGUI.All.resources
+\\uem.walton.uark.edu\UEMProfiles_Lab$\ccd010\RedirectedFolders\Downloads\WetEntryKayak-master (1)\WetEntryKayak-master\FinalProjectGUI11_11_10_45\FinalProjectGUI\FinalProjectGUI\obj\Debug\FinalProjectGUI.csproj.GenerateResource.cache
+\\uem.walton.uark.edu\UEMProfiles_Lab$\ccd010\RedirectedFolders\Downloads\WetEntryKayak-master (1)\WetEntryKayak-master\FinalProjectGUI11_11_10_45\FinalProjectGUI\FinalProjectGUI\obj\Debug\FinalProjectGUI.csproj.CoreCompileInputs.cache
+\\uem.walton.uark.edu\UEMProfiles_Lab$\ccd010\RedirectedFolders\Downloads\WetEntryKayak-master (1)\WetEntryKayak-master\FinalProjectGUI11_11_10_45\FinalProjectGUI\FinalProjectGUI\obj\Debug\FinalProjectGUI.exe
+\\uem.walton.uark.edu\UEMProfiles_Lab$\ccd010\RedirectedFolders\Downloads\WetEntryKayak-master (1)\WetEntryKayak-master\FinalProjectGUI11_11_10_45\FinalProjectGUI\FinalProjectGUI\obj\Debug\FinalProjectGUI.pdb
+\\uem.walton.uark.edu\UEMProfiles_Lab$\ccd010\RedirectedFolders\Downloads\WetEntryKayak-master\WetEntryKayak-master\FinalProjectGUI11_11_10_45\FinalProjectGUI\FinalProjectGUI\bin\Debug\FinalProjectGUI.exe.config
+\\uem.walton.uark.edu\UEMProfiles_Lab$\ccd010\RedirectedFolders\Downloads\WetEntryKayak-master\WetEntryKayak-master\FinalProjectGUI11_11_10_45\FinalProjectGUI\FinalProjectGUI\bin\Debug\FinalProjectGUI.exe
+\\uem.walton.uark.edu\UEMProfiles_Lab$\ccd010\RedirectedFolders\Downloads\WetEntryKayak-master\WetEntryKayak-master\FinalProjectGUI11_11_10_45\FinalProjectGUI\FinalProjectGUI\bin\Debug\FinalProjectGUI.pdb
+\\uem.walton.uark.edu\UEMProfiles_Lab$\ccd010\RedirectedFolders\Downloads\WetEntryKayak-master\WetEntryKayak-master\FinalProjectGUI11_11_10_45\FinalProjectGUI\FinalProjectGUI\obj\Debug\FinalProjectGUI.csprojAssemblyReference.cache
+\\uem.walton.uark.edu\UEMProfiles_Lab$\ccd010\RedirectedFolders\Downloads\WetEntryKayak-master\WetEntryKayak-master\FinalProjectGUI11_11_10_45\FinalProjectGUI\FinalProjectGUI\obj\Debug\FinalProjectGUI.About_Us.resources
+\\uem.walton.uark.edu\UEMProfiles_Lab$\ccd010\RedirectedFolders\Downloads\WetEntryKayak-master\WetEntryKayak-master\FinalProjectGUI11_11_10_45\FinalProjectGUI\FinalProjectGUI\obj\Debug\FinalProjectGUI.Check_Out.resources
+\\uem.walton.uark.edu\UEMProfiles_Lab$\ccd010\RedirectedFolders\Downloads\WetEntryKayak-master\WetEntryKayak-master\FinalProjectGUI11_11_10_45\FinalProjectGUI\FinalProjectGUI\obj\Debug\FinalProjectGUI.Contact_Us.resources
+\\uem.walton.uark.edu\UEMProfiles_Lab$\ccd010\RedirectedFolders\Downloads\WetEntryKayak-master\WetEntryKayak-master\FinalProjectGUI11_11_10_45\FinalProjectGUI\FinalProjectGUI\obj\Debug\FinalProjectGUI.Gear_and_Accessories.resources
+\\uem.walton.uark.edu\UEMProfiles_Lab$\ccd010\RedirectedFolders\Downloads\WetEntryKayak-master\WetEntryKayak-master\FinalProjectGUI11_11_10_45\FinalProjectGUI\FinalProjectGUI\obj\Debug\FinalProjectGUI.Home.resources
+\\uem.walton.uark.edu\UEMProfiles_Lab$\ccd010\RedirectedFolders\Downloads\WetEntryKayak-master\WetEntryKayak-master\FinalProjectGUI11_11_10_45\FinalProjectGUI\FinalProjectGUI\obj\Debug\FinalProjectGUI.New_Kayaks.resources
+\\uem.walton.uark.edu\UEMProfiles_Lab$\ccd010\RedirectedFolders\Downloads\WetEntryKayak-master\WetEntryKayak-master\FinalProjectGUI11_11_10_45\FinalProjectGUI\FinalProjectGUI\obj\Debug\FinalProjectGUI.Properties.Resources.resources
+\\uem.walton.uark.edu\UEMProfiles_Lab$\ccd010\RedirectedFolders\Downloads\WetEntryKayak-master\WetEntryKayak-master\FinalProjectGUI11_11_10_45\FinalProjectGUI\FinalProjectGUI\obj\Debug\FinalProjectGUI.csproj.GenerateResource.cache
+\\uem.walton.uark.edu\UEMProfiles_Lab$\ccd010\RedirectedFolders\Downloads\WetEntryKayak-master\WetEntryKayak-master\FinalProjectGUI11_11_10_45\FinalProjectGUI\FinalProjectGUI\obj\Debug\FinalProjectGUI.csproj.CoreCompileInputs.cache
+\\uem.walton.uark.edu\UEMProfiles_Lab$\ccd010\RedirectedFolders\Downloads\WetEntryKayak-master\WetEntryKayak-master\FinalProjectGUI11_11_10_45\FinalProjectGUI\FinalProjectGUI\obj\Debug\FinalProjectGUI.exe
+\\uem.walton.uark.edu\UEMProfiles_Lab$\ccd010\RedirectedFolders\Downloads\WetEntryKayak-master\WetEntryKayak-master\FinalProjectGUI11_11_10_45\FinalProjectGUI\FinalProjectGUI\obj\Debug\FinalProjectGUI.pdb
+\\uem.walton.uark.edu\UEMProfiles_Lab$\ccd010\RedirectedFolders\Downloads\WetEntryKayak-master\WetEntryKayak-master\FinalProjectGUI11_11_10_45\FinalProjectGUI\FinalProjectGUI\obj\Debug\FinalProjectGUI.Login.resources
+\\uem.walton.uark.edu\UEMProfiles_Lab$\ccd010\RedirectedFolders\Downloads\WetEntryKayak-master\WetEntryKayak-master\FinalProjectGUI11_11_10_45\FinalProjectGUI\FinalProjectGUI\obj\Debug\FinalProjectGUI.Create_Account.resources
+\\uem.walton.uark.edu\UEMProfiles_Lab$\ccd010\RedirectedFolders\Downloads\WetEntryKayak-master\WetEntryKayak-master\FinalProjectGUI11_11_10_45\FinalProjectGUI\FinalProjectGUI\obj\Debug\FinalProjectGUI.Shop_All.resources
+\\uem.walton.uark.edu\UEMProfiles_Lab$\jtl009\RedirectedFolders\Downloads\FinalProjectGUI11_11_10_45\FinalProjectGUI11_11_10_45\FinalProjectGUI\FinalProjectGUI\bin\Debug\FinalProjectGUI.exe.config
+\\uem.walton.uark.edu\UEMProfiles_Lab$\jtl009\RedirectedFolders\Downloads\FinalProjectGUI11_11_10_45\FinalProjectGUI11_11_10_45\FinalProjectGUI\FinalProjectGUI\bin\Debug\FinalProjectGUI.exe
+\\uem.walton.uark.edu\UEMProfiles_Lab$\jtl009\RedirectedFolders\Downloads\FinalProjectGUI11_11_10_45\FinalProjectGUI11_11_10_45\FinalProjectGUI\FinalProjectGUI\bin\Debug\FinalProjectGUI.pdb
+\\uem.walton.uark.edu\UEMProfiles_Lab$\jtl009\RedirectedFolders\Downloads\FinalProjectGUI11_11_10_45\FinalProjectGUI11_11_10_45\FinalProjectGUI\FinalProjectGUI\obj\Debug\FinalProjectGUI.csprojAssemblyReference.cache
+\\uem.walton.uark.edu\UEMProfiles_Lab$\jtl009\RedirectedFolders\Downloads\FinalProjectGUI11_11_10_45\FinalProjectGUI11_11_10_45\FinalProjectGUI\FinalProjectGUI\obj\Debug\FinalProjectGUI.About_Us.resources
+\\uem.walton.uark.edu\UEMProfiles_Lab$\jtl009\RedirectedFolders\Downloads\FinalProjectGUI11_11_10_45\FinalProjectGUI11_11_10_45\FinalProjectGUI\FinalProjectGUI\obj\Debug\FinalProjectGUI.Check_Out.resources
+\\uem.walton.uark.edu\UEMProfiles_Lab$\jtl009\RedirectedFolders\Downloads\FinalProjectGUI11_11_10_45\FinalProjectGUI11_11_10_45\FinalProjectGUI\FinalProjectGUI\obj\Debug\FinalProjectGUI.Contact_Us.resources
+\\uem.walton.uark.edu\UEMProfiles_Lab$\jtl009\RedirectedFolders\Downloads\FinalProjectGUI11_11_10_45\FinalProjectGUI11_11_10_45\FinalProjectGUI\FinalProjectGUI\obj\Debug\FinalProjectGUI.Create_Account.resources
+\\uem.walton.uark.edu\UEMProfiles_Lab$\jtl009\RedirectedFolders\Downloads\FinalProjectGUI11_11_10_45\FinalProjectGUI11_11_10_45\FinalProjectGUI\FinalProjectGUI\obj\Debug\FinalProjectGUI.Gear_and_Accessories.resources
+\\uem.walton.uark.edu\UEMProfiles_Lab$\jtl009\RedirectedFolders\Downloads\FinalProjectGUI11_11_10_45\FinalProjectGUI11_11_10_45\FinalProjectGUI\FinalProjectGUI\obj\Debug\FinalProjectGUI.Home.resources
+\\uem.walton.uark.edu\UEMProfiles_Lab$\jtl009\RedirectedFolders\Downloads\FinalProjectGUI11_11_10_45\FinalProjectGUI11_11_10_45\FinalProjectGUI\FinalProjectGUI\obj\Debug\FinalProjectGUI.Login.resources
+\\uem.walton.uark.edu\UEMProfiles_Lab$\jtl009\RedirectedFolders\Downloads\FinalProjectGUI11_11_10_45\FinalProjectGUI11_11_10_45\FinalProjectGUI\FinalProjectGUI\obj\Debug\FinalProjectGUI.New_Kayaks.resources
+\\uem.walton.uark.edu\UEMProfiles_Lab$\jtl009\RedirectedFolders\Downloads\FinalProjectGUI11_11_10_45\FinalProjectGUI11_11_10_45\FinalProjectGUI\FinalProjectGUI\obj\Debug\FinalProjectGUI.Properties.Resources.resources
+\\uem.walton.uark.edu\UEMProfiles_Lab$\jtl009\RedirectedFolders\Downloads\FinalProjectGUI11_11_10_45\FinalProjectGUI11_11_10_45\FinalProjectGUI\FinalProjectGUI\obj\Debug\FinalProjectGUI.Shop_All.resources
+\\uem.walton.uark.edu\UEMProfiles_Lab$\jtl009\RedirectedFolders\Downloads\FinalProjectGUI11_11_10_45\FinalProjectGUI11_11_10_45\FinalProjectGUI\FinalProjectGUI\obj\Debug\FinalProjectGUI.csproj.GenerateResource.cache
+\\uem.walton.uark.edu\UEMProfiles_Lab$\jtl009\RedirectedFolders\Downloads\FinalProjectGUI11_11_10_45\FinalProjectGUI11_11_10_45\FinalProjectGUI\FinalProjectGUI\obj\Debug\FinalProjectGUI.csproj.CoreCompileInputs.cache
+\\uem.walton.uark.edu\UEMProfiles_Lab$\jtl009\RedirectedFolders\Downloads\FinalProjectGUI11_11_10_45\FinalProjectGUI11_11_10_45\FinalProjectGUI\FinalProjectGUI\obj\Debug\FinalProjectGUI.exe
+\\uem.walton.uark.edu\UEMProfiles_Lab$\jtl009\RedirectedFolders\Downloads\FinalProjectGUI11_11_10_45\FinalProjectGUI11_11_10_45\FinalProjectGUI\FinalProjectGUI\obj\Debug\FinalProjectGUI.pdb
+C:\Users\Blake\source\repos\WetEntryRedo\FinalProjectGUI\FinalProjectGUI\bin\Debug\FinalProjectGUI.exe.config
+C:\Users\Blake\source\repos\WetEntryRedo\FinalProjectGUI\FinalProjectGUI\bin\Debug\FinalProjectGUI.exe
+C:\Users\Blake\source\repos\WetEntryRedo\FinalProjectGUI\FinalProjectGUI\bin\Debug\FinalProjectGUI.pdb
+C:\Users\Blake\source\repos\WetEntryRedo\FinalProjectGUI\FinalProjectGUI\obj\Debug\FinalProjectGUI.csprojAssemblyReference.cache
+C:\Users\Blake\source\repos\WetEntryRedo\FinalProjectGUI\FinalProjectGUI\obj\Debug\FinalProjectGUI.About_Us.resources
+C:\Users\Blake\source\repos\WetEntryRedo\FinalProjectGUI\FinalProjectGUI\obj\Debug\FinalProjectGUI.Check_Out.resources
+C:\Users\Blake\source\repos\WetEntryRedo\FinalProjectGUI\FinalProjectGUI\obj\Debug\FinalProjectGUI.Contact_Us.resources
+C:\Users\Blake\source\repos\WetEntryRedo\FinalProjectGUI\FinalProjectGUI\obj\Debug\FinalProjectGUI.Create_Account.resources
+C:\Users\Blake\source\repos\WetEntryRedo\FinalProjectGUI\FinalProjectGUI\obj\Debug\FinalProjectGUI.CustomerDashboard.resources
+C:\Users\Blake\source\repos\WetEntryRedo\FinalProjectGUI\FinalProjectGUI\obj\Debug\FinalProjectGUI.EmployeeDashboard.resources
+C:\Users\Blake\source\repos\WetEntryRedo\FinalProjectGUI\FinalProjectGUI\obj\Debug\FinalProjectGUI.Gear_and_Accessories.resources
+C:\Users\Blake\source\repos\WetEntryRedo\FinalProjectGUI\FinalProjectGUI\obj\Debug\FinalProjectGUI.Home.resources
+C:\Users\Blake\source\repos\WetEntryRedo\FinalProjectGUI\FinalProjectGUI\obj\Debug\FinalProjectGUI.Login.resources
+C:\Users\Blake\source\repos\WetEntryRedo\FinalProjectGUI\FinalProjectGUI\obj\Debug\FinalProjectGUI.New_Kayaks.resources
+C:\Users\Blake\source\repos\WetEntryRedo\FinalProjectGUI\FinalProjectGUI\obj\Debug\FinalProjectGUI.Properties.Resources.resources
+C:\Users\Blake\source\repos\WetEntryRedo\FinalProjectGUI\FinalProjectGUI\obj\Debug\FinalProjectGUI.Shop_All.resources
+C:\Users\Blake\source\repos\WetEntryRedo\FinalProjectGUI\FinalProjectGUI\obj\Debug\FinalProjectGUI.csproj.GenerateResource.cache
+C:\Users\Blake\source\repos\WetEntryRedo\FinalProjectGUI\FinalProjectGUI\obj\Debug\FinalProjectGUI.csproj.CoreCompileInputs.cache
+C:\Users\Blake\source\repos\WetEntryRedo\FinalProjectGUI\FinalProjectGUI\obj\Debug\FinalProjectGUI.exe
+C:\Users\Blake\source\repos\WetEntryRedo\FinalProjectGUI\FinalProjectGUI\obj\Debug\FinalProjectGUI.pdb
+C:\Users\Blake\source\repos\WetEntryRedo\FinalProjectGUI\FinalProjectGUI\obj\Debug\FinalProjectGUI.Company_Email.resources
