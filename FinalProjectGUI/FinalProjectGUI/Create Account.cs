@@ -20,9 +20,8 @@ namespace FinalProjectGUI
         private void btnCreateAccount_Click(object sender, EventArgs e)
         {
             MessageBox.Show("Your account has been successfully created!");
-            this.Hide();
-            Home ho = new Home();
-            ho.ShowDialog();
+            this.Close();
+            
         }
     }
 }

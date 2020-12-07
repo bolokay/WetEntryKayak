@@ -42,6 +42,7 @@
             this.contextMenuStrip1 = new System.Windows.Forms.ContextMenuStrip(this.components);
             this.backgroundGB = new System.Windows.Forms.GroupBox();
             this.lblShopAll = new System.Windows.Forms.Label();
+            this.lblHeader = new System.Windows.Forms.Label();
             this.menuStrip1.SuspendLayout();
             this.backgroundGB.SuspendLayout();
             this.SuspendLayout();
@@ -133,6 +134,7 @@
             this.backgroundGB.BackColor = System.Drawing.Color.Transparent;
             this.backgroundGB.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("backgroundGB.BackgroundImage")));
             this.backgroundGB.Controls.Add(this.lblShopAll);
+            this.backgroundGB.Controls.Add(this.lblHeader);
             this.backgroundGB.ForeColor = System.Drawing.Color.Transparent;
             this.backgroundGB.Location = new System.Drawing.Point(0, 0);
             this.backgroundGB.Name = "backgroundGB";
@@ -142,10 +144,11 @@
             // 
             // lblShopAll
             // 
-            this.lblShopAll.BackColor = System.Drawing.Color.LightGray;
+            this.lblShopAll.BackColor = System.Drawing.Color.Transparent;
+            this.lblShopAll.Cursor = System.Windows.Forms.Cursors.Hand;
             this.lblShopAll.Font = new System.Drawing.Font("Modern No. 20", 36F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblShopAll.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.lblShopAll.Location = new System.Drawing.Point(0, 257);
+            this.lblShopAll.Location = new System.Drawing.Point(0, 172);
             this.lblShopAll.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.lblShopAll.Name = "lblShopAll";
             this.lblShopAll.Size = new System.Drawing.Size(1146, 50);
@@ -153,6 +156,18 @@
             this.lblShopAll.Text = "Shop All Kayaks";
             this.lblShopAll.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             this.lblShopAll.Click += new System.EventHandler(this.LblShopAll_Click);
+            // 
+            // lblHeader
+            // 
+            this.lblHeader.BackColor = System.Drawing.Color.White;
+            this.lblHeader.Font = new System.Drawing.Font("Woodcut", 36F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblHeader.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(0)))));
+            this.lblHeader.Location = new System.Drawing.Point(0, 67);
+            this.lblHeader.Name = "lblHeader";
+            this.lblHeader.Size = new System.Drawing.Size(1146, 155);
+            this.lblHeader.TabIndex = 93;
+            this.lblHeader.Text = "Wet Entry Kayaks";
+            this.lblHeader.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // Home
             // 
@@ -194,6 +209,7 @@
         private System.Windows.Forms.ToolStripMenuItem loginToolStripMenuItem;
         private System.Windows.Forms.GroupBox backgroundGB;
         private System.Windows.Forms.Label lblShopAll;
+        private System.Windows.Forms.Label lblHeader;
     }
 }
 

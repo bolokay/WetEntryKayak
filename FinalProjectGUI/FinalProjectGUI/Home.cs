@@ -23,11 +23,14 @@ namespace FinalProjectGUI
         Contact_Us cu = new Contact_Us();
         Check_Out co = new Check_Out();
         Login lo = new Login();
-        // CompanyEmail ce = new CompanyEmail();
+        
 
         public Home()
         {
             InitializeComponent();
+            Color myColor = Color.FromArgb(100, Color.Black);
+            lblHeader.BackColor = myColor;
+            lblShopAll.BackColor = myColor;
         }
 
         void navigateAway()
@@ -106,7 +109,7 @@ namespace FinalProjectGUI
             cu.MdiParent = this;
             co.MdiParent = this;
             lo.MdiParent = this;
-            //ce.MdiParent = this;
+            
         }
 
         private void LblShopAll_Click(object sender, EventArgs e)

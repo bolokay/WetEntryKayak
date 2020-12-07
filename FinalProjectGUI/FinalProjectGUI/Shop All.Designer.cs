@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Shop_All));
             this.checkBox10 = new System.Windows.Forms.CheckBox();
             this.checkBox9 = new System.Windows.Forms.CheckBox();
             this.checkBox8 = new System.Windows.Forms.CheckBox();
@@ -44,7 +45,6 @@
             this.pictureBox4 = new System.Windows.Forms.PictureBox();
             this.pictureBox2 = new System.Windows.Forms.PictureBox();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
-            this.lblFooter = new System.Windows.Forms.Label();
             this.lblKayak1 = new System.Windows.Forms.Label();
             this.lblKayak2 = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
@@ -54,6 +54,8 @@
             this.label5 = new System.Windows.Forms.Label();
             this.label6 = new System.Windows.Forms.Label();
             this.lblHeader = new System.Windows.Forms.Label();
+            this.gboxOcean = new System.Windows.Forms.GroupBox();
+            this.groupBox1 = new System.Windows.Forms.GroupBox();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox8)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox7)).BeginInit();
@@ -62,6 +64,7 @@
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox4)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
+            this.groupBox1.SuspendLayout();
             this.SuspendLayout();
             // 
             // checkBox10
@@ -220,11 +223,12 @@
             // 
             // pictureBox2
             // 
+            this.pictureBox2.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
             this.pictureBox2.Image = global::FinalProjectGUI.Properties.Resources.Red_Kayak;
-            this.pictureBox2.Location = new System.Drawing.Point(-25, 503);
+            this.pictureBox2.Location = new System.Drawing.Point(36, 504);
             this.pictureBox2.Margin = new System.Windows.Forms.Padding(2);
             this.pictureBox2.Name = "pictureBox2";
-            this.pictureBox2.Size = new System.Drawing.Size(690, 345);
+            this.pictureBox2.Size = new System.Drawing.Size(424, 345);
             this.pictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pictureBox2.TabIndex = 62;
             this.pictureBox2.TabStop = false;
@@ -239,13 +243,6 @@
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox1.TabIndex = 61;
             this.pictureBox1.TabStop = false;
-            // 
-            // lblFooter
-            // 
-            this.lblFooter.Location = new System.Drawing.Point(3, 1574);
-            this.lblFooter.Name = "lblFooter";
-            this.lblFooter.Size = new System.Drawing.Size(1125, 76);
-            this.lblFooter.TabIndex = 83;
             // 
             // lblKayak1
             // 
@@ -332,11 +329,29 @@
             this.lblHeader.AutoSize = true;
             this.lblHeader.Font = new System.Drawing.Font("Woodcut", 36F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblHeader.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(0)))));
-            this.lblHeader.Location = new System.Drawing.Point(173, 13);
+            this.lblHeader.Location = new System.Drawing.Point(165, 13);
             this.lblHeader.Name = "lblHeader";
             this.lblHeader.Size = new System.Drawing.Size(800, 50);
             this.lblHeader.TabIndex = 92;
             this.lblHeader.Text = "Wet Entry Kayaks";
+            // 
+            // gboxOcean
+            // 
+            this.gboxOcean.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("gboxOcean.BackgroundImage")));
+            this.gboxOcean.Location = new System.Drawing.Point(3, 3);
+            this.gboxOcean.Name = "gboxOcean";
+            this.gboxOcean.Size = new System.Drawing.Size(1125, 1647);
+            this.gboxOcean.TabIndex = 93;
+            this.gboxOcean.TabStop = false;
+            // 
+            // groupBox1
+            // 
+            this.groupBox1.Controls.Add(this.pictureBox2);
+            this.groupBox1.Location = new System.Drawing.Point(68, 3);
+            this.groupBox1.Name = "groupBox1";
+            this.groupBox1.Size = new System.Drawing.Size(998, 1647);
+            this.groupBox1.TabIndex = 0;
+            this.groupBox1.TabStop = false;
             // 
             // Shop_All
             // 
@@ -344,7 +359,7 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.AutoScroll = true;
             this.BackColor = System.Drawing.Color.White;
-            this.ClientSize = new System.Drawing.Size(1148, 1421);
+            this.ClientSize = new System.Drawing.Size(1148, 1235);
             this.Controls.Add(this.lblHeader);
             this.Controls.Add(this.label6);
             this.Controls.Add(this.label5);
@@ -354,7 +369,6 @@
             this.Controls.Add(this.label1);
             this.Controls.Add(this.lblKayak2);
             this.Controls.Add(this.lblKayak1);
-            this.Controls.Add(this.lblFooter);
             this.Controls.Add(this.checkBox10);
             this.Controls.Add(this.checkBox9);
             this.Controls.Add(this.checkBox8);
@@ -369,8 +383,9 @@
             this.Controls.Add(this.pictureBox6);
             this.Controls.Add(this.pictureBox5);
             this.Controls.Add(this.pictureBox4);
-            this.Controls.Add(this.pictureBox2);
             this.Controls.Add(this.pictureBox1);
+            this.Controls.Add(this.groupBox1);
+            this.Controls.Add(this.gboxOcean);
             this.Name = "Shop_All";
             this.Padding = new System.Windows.Forms.Padding(0, 0, 0, 30);
             this.SizeGripStyle = System.Windows.Forms.SizeGripStyle.Show;
@@ -383,6 +398,7 @@
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox4)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
+            this.groupBox1.ResumeLayout(false);
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -405,7 +421,6 @@
         private System.Windows.Forms.PictureBox pictureBox4;
         private System.Windows.Forms.PictureBox pictureBox2;
         private System.Windows.Forms.PictureBox pictureBox1;
-        private System.Windows.Forms.Label lblFooter;
         private System.Windows.Forms.Label lblKayak1;
         private System.Windows.Forms.Label lblKayak2;
         private System.Windows.Forms.Label label1;
@@ -415,5 +430,7 @@
         private System.Windows.Forms.Label label5;
         private System.Windows.Forms.Label label6;
         private System.Windows.Forms.Label lblHeader;
+        private System.Windows.Forms.GroupBox gboxOcean;
+        private System.Windows.Forms.GroupBox groupBox1;
     }
 }
